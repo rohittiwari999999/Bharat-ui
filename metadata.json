@@ -1,0 +1,6 @@
+{
+  "name": "PosterBanao",
+  "description": "AI-powered festival poster, business brochure, and wedding invitation designer with auto-branding and Ultra-HD export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
